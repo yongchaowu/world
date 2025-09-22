@@ -30,4 +30,5 @@ it(B = "\\\\")./*           G####B" #       */join(B+B).split\
 [Martin Kleppe](http://aem1k.com) [@aemkei](http://twitter.com/aemkei)
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-57649-14/aemkei/world)](https://github.com/igrigorik/ga-beacon)
+First [presented at JSConf.eu 2013](https://youtu.be/RTxtiLp1C8Y?si=ulvqFKqggv8mmx6p&t=1079).
+Inspired by Yusuke Endoh's [Qlobe](https://mamememo.blogspot.com/2010/09/qlobe.html).
